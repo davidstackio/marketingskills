@@ -89,7 +89,7 @@ Hub = comprehensive overview. Spokes = related subtopics.
 ```
 Create hub first, then build spokes. Interlink strategically.
 
-**Note:** Most content works fine under `/blog`. Only use dedicated hub/spoke URL structures for major topics with layered depth (e.g., Atlassian's `/agile` guide). For typical blog posts, `/blog/post-title` is sufficient.
+**Note:** Keep URLs as concise as possible. Most content works fine under `/blog`. Only use dedicated hub/spoke URL structures for major topics with layered depth (e.g., Atlassian's `/agile` guide). For typical blog posts, `/blog/post-title` is sufficient.
 
 **Template Libraries**
 High-intent keywords + product adoption.
@@ -126,7 +126,7 @@ For programmatic content at scale, see **programmatic-seo** skill.
 
 Content pillars are the 3-5 core topics your brand will own. Each pillar spawns a cluster of related content.
 
-Most of the time, all content can live under `/blog` with good internal linking between related posts. Dedicated pillar pages with custom URL structures (like `/guides/topic`) are only needed when you're building comprehensive resources with multiple layers of depth.
+Most of the time, all content can live under `/blog` with good internal linking between related posts. Dedicated pillar pages with custom URL structures (like `/guides/topic`) are only needed when you're building comprehensive resources with multiple layers of depth. Keep URLs flat and concise whenever possible.
 
 ### How to Identify Pillars
 
